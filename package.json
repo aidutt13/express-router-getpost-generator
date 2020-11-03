@@ -1,0 +1,19 @@
+{
+  "name": "express-router-getpost-generator",
+  "version": "1.0.0",
+  "description": "Simple GET/POST generator functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidutt13/express-router-getpost-generator.git"
+  },
+  "author": "aidutt13",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "bugs": {
+    "url": "https://github.com/aidutt13/express-router-getpost-generator/issues"
+  },
+  "homepage": "https://github.com/aidutt13/express-router-getpost-generator#readme"
+}
